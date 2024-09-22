@@ -9,4 +9,5 @@ Responsive design for easy use on both desktop and mobile devices.
 
 Technologies Used
 Frontend: HTML, CSS, Bootstrap
+Scripting: PHP
 QR Code Generation: PHP library (phpqrcode)
