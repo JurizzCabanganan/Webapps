@@ -11,3 +11,5 @@ Technologies Used
 Frontend: HTML, CSS, Bootstrap
 Scripting: PHP
 QR Code Generation: PHP library (phpqrcode)
+
+jurz@2024
